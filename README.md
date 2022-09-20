@@ -1,8 +1,13 @@
 # python-keylogger
-A minimal keylogger that accurately track keyboard strokes made in Python 
+A minimal keylogger that accurately track keyboard strokes made in Python
 
-![](image.jpg)
-Image by <a href="https://pixabay.com/users/markusspiske-670330/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1734495">Markus Spiske</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1734495">Pixabay</a>
+Improved by Shahar Sar Shalom 
+
+Changes: 
+* Doesn't print the output to the screen
+* Save the key logs to different file on every execution 
+* solve crashes - now support enter keyword 
+
 
 Getting started !
 -----------------
@@ -26,34 +31,6 @@ if __name__ == '__main__':
     logger.main()
     input()
 ```
-
-For Education purpose only !!!
-------------------------------
-
- The script itself tells, this script is only for educational purpose only, just try it on your computer and use what you know as a faithul warrior who is welly equiped with martial arts but doesn't use it to punish those who don't.
-
-
-wanna contribute
--------------------
-
-If you have gotta anything to add to the script, please do 
-    -> Fork it 
-    -> Create a new branch (feature-name)
-    -> Submit your pull requests
-    -> You're merged congrats !!!
-
-
-Facing issues ?
-----------------
-
-If you're facing any issue with the usage of script, well you have (google) so use it well or if you're to lazy to google just raise an issue on this repository.
-
-
-learnt something 
------------------
-
-Hope you learnt something, then just give it star & share it to more of your friends as it founds you 
-
 
 Credits
 -------
